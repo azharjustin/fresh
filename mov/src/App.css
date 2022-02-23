@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.welcome{
+  color: brown;
+  font-family: 'Redressed', cursive;
+ 
+  
+}
+.profile{
+  height: 300px;
+  width: 200px;
+  object-fit: cover;
+  border-radius:60px ;
+}
